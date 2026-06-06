@@ -31,14 +31,7 @@ The goal of this repository is to build an intuitive understanding of mathematic
 - Matplotlib
 - Scikit-Learn
 - Jupyter Notebook
-
-## Repository Structure
-linear-algebra-for-ml/
-├── vectors-and-transformations.ipynb
-├── svd-fundamentals.ipynb
-└── README.md
-
-
+  
 ## Purpose
 
 This repository serves as a learning resource and personal study project for understanding the mathematical foundations behind machine learning algorithms.
