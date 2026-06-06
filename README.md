@@ -34,7 +34,6 @@ The goal of this repository is to build an intuitive understanding of mathematic
 
 ## Repository Structure
 linear-algebra-for-ml/
-│
 ├── vectors-and-transformations.ipynb
 ├── svd-fundamentals.ipynb
 └── README.md
